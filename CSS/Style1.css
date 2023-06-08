@@ -1,0 +1,8 @@
+body {background-color: grey;}
+h1 {text-align: center;}
+h1, h2, h3, h4, h5, h6, p {color: antiquewhite}
+a {font-size: 20px}
+a:link, a:visited, a:active {color: navy; background-color: green; text-decoration: overline;}
+a:hover {color: aqua; background-color: navy; text-decoration: overline;}
+button:active {color: green;}
+button:hover {color:navy; background-color: aqua; text-decoration: inherit}
